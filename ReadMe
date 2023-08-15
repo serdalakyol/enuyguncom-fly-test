@@ -1,0 +1,16 @@
+Bu Projemde Selenium ve JUnit le EnUygun.com üzerinden bir uçak rezervasyonu otomasyonu oluşturdum.
+
+Test Senaryosu şu şekilde ;
+
+Kullanıcı enuygun.com üzerinden Fly alanına girer
+Kullanıcı Gitmek istediği şehrin havalimanını ve uçağa binmek istediği havalimanını bilgilerini box içerisine yazar
+Kullanıcı bu uçusunda gidiş dönüş uçak bileti için tekyön işaretli butona tılayarak iki yönlü uçak bileti alanını açar
+Kullanıcı gidiş ve dönüş tarihlerini boxlara girer
+kullanıcı son olarak kişi sayısını seçer ve ucuz bilet bul boxına tıklar
+kullanıcı kendine uygun gidiş ve dönüş uçak biletlerini seçer ve devam eder
+kullnaıcı gerekmekte olan bilgileri ekisksiz bir sekilde doldurur
+Kullanıcı Ekstra bagaj hakkı almak için bagaj hakkı kımından istediği miktarda bagaj hakkını işaretler (10KG) VE devam tuşuna basa
+Kullanıcı Son olarak ödeme sayfasına gelir
+
+
+
